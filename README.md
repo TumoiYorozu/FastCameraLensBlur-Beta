@@ -28,7 +28,7 @@ FastCameraLensBlurのベータ版配信
 
 に FastCameraLensBlurWin.aex を配置すれば、 After Effects, Premiere Pro の両方からプラグインを読み込むことができます。
 
-例えば CC 2018 の場合
+例えば CC 2018/2019 の場合
 
 `C:¥Program Files¥Adobe¥Common¥Plug-ins¥7.0¥MediaCore`
 
@@ -47,7 +47,7 @@ FastCameraLensBlurのベータ版配信
 に FastCameraLensBlurMac.plugin を配置すれば、 After Effects, Premiere Pro の両方からプラグインを読み込むことができます。
 
 
-例えば CC 2018 の場合
+例えば CC 2018/2019 の場合
 
 `/Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore`
 
