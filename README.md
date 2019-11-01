@@ -22,6 +22,45 @@ FastCameraLensBlurのベータ版配信
 個別のファイルのページから「Download」を選択することで個々
 のファイルをダウンロードできます，
 
+# インストール先
+## WIndows の場合
+`C:¥Program Files¥Adobe¥Common¥Plug-ins¥ [version] ¥MediaCore¥`
+
+に FastCameraLensBlurWin.aex を配置すれば、 After Effects, Premiere Pro の両方からプラグインを読み込むことができます。
+
+例えば CC 2018 の場合
+
+`C:¥Program Files¥Adobe¥Common¥Plug-ins¥7.0¥MediaCore`
+
+になります。  
+
+また、おすすめはしませんが、  
+
+`C:¥Program Files¥Adobe¥Adobe After Effects [version] ¥Support Files¥Plug-ins¥`  
+
+に配置することによって、 After Effects からのみ使用できます。  
+
+
+## macOS の場合
+`/Library/Application Support/Adobe/Common/Plug-ins/ [version] /MediaCore`
+
+に FastCameraLensBlurMac.plugin を配置すれば、 After Effects, Premiere Pro の両方からプラグインを読み込むことができます。
+
+
+例えば CC 2018 の場合
+
+`/Library/Application Support/Adobe/Common/Plug-ins/7.0/MediaCore`
+
+になります。
+
+この場所は、 Finder →移動→フォルダへ移動 (Shift+Cmd+G) と開き、先程の場所を指定すれば開くことができます。
+
+また、おすすめはしませんが、
+
+`/Applications/Adobe After Effects [version] /Plug-ins/`
+
+に配置することによって、 After Effects からのみ使用できます。
+
 # ログ
 5.0.0 : 公開
 
