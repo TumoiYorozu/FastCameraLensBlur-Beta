@@ -17,10 +17,10 @@ FastCameraLensBlurのベータ版配信
 を使用してください．
 
 
-この画面の「Clone or download」→「Download Zip」でもダウンロードできますが，全部ダウンロードされるので気をつけてください．(100MBくらい)
+この画面の「Clone or download」→「Download Zip」で全てダウンロードされます(37MBくらい)
 
 個別のファイルのページから「Download」を選択することで個々
-のファイルをダウンロードできます，
+のファイルをダウンロードできます．
 
 # インストール先
 ## WIndows の場合
