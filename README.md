@@ -68,3 +68,6 @@ FastCameraLensBlurのベータ版配信
 Twitter 等で @TumoiYorozu_FBC にリプかDMしてください．
 
 GitHub アカウントを持っていれば Issues から出すと芝を育成できます．
+
+# 既知の問題
+https://github.com/TumoiYorozu/FastCameraLensBlur-Beta/issues
