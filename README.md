@@ -11,7 +11,7 @@ FastCameraLensBlurのベータ版配信
 
 ライセンスを持っていないと斜線が入ります．
 
-- aescripts.com で買った場合 → AeScripts 版
+- aescripts.com で買った場合 → aescripts 版
 - それ以外(AE OFF, コミケ等)で買った場合→ AE OFF 版
 
 を使用してください．
